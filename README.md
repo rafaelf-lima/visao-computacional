@@ -2,4 +2,4 @@
 
 Repositório dedicado ao projeto de Visão Computacional.
 
-Grupo: Rafael Lima, Bernardo Loureiro, Luis Pastura e Lucca Lanzellotti.
+Grupo: Rafael Lima, Bernardo Loureiro, Luis Pastura, Daniel Gripa, João Araujo e Lucca Lanzellotti.
